@@ -27,7 +27,7 @@ I’m always learning, experimenting, and refining my skills — especially in *
 
 You can find my game projects and prototypes on itch.io:
 
-👉 **Itch.io:** [https://your-itch-link-here](https://simplepixelated.itch.io/)
+👉 **Itch.io:** [https://devlukedevlog.itch.io]
 
 Most of my repositories focus on:
 - Learning projects
@@ -42,7 +42,7 @@ If you’d like to collaborate, ask a question, or just connect:
 
 - 📧 **Email:** simplepixelated@gmail.com
 - 💼 **GitHub:** You’re already here  
-- 🎮 **Itch.io:** [https://your-itch-link-here](https://simplepixelated.itch.io/)
+- 🎮 **Itch.io:** [https://devlukedevlog.itch.io]
 
 ---
 
