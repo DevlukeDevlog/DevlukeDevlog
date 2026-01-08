@@ -10,15 +10,12 @@ I’m always learning, experimenting, and refining my skills — especially in *
 ## 🧰 Tech & Tools
 
 - **Languages & Frameworks**
-  - JavaScript / TypeScript
   - React
   - Flutter
   - Godot (GDScript)
   - Unity
 
 - **Other Tools**
-  - Git & GitHub
-  - REST APIs
   - Pixel-art tools (Aseprite)
 
 ---
@@ -32,7 +29,6 @@ You can find my game projects and prototypes on itch.io:
 Most of my repositories focus on:
 - Learning projects
 - Game prototypes
-- Experiments with UI, animation, and mechanics
 
 ---
 
