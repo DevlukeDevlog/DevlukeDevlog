@@ -7,31 +7,6 @@ I’m always learning, experimenting, and refining my skills — especially in *
 
 ---
 
-## 🧰 Tech & Tools
-
-- **Languages & Frameworks**
-  - React
-  - Flutter
-  - Godot (GDScript)
-  - Unity
-
-- **Other Tools**
-  - Pixel-art tools (Aseprite)
-
----
-
-## 🎮 Games & Projects
-
-You can find my game projects and prototypes on itch.io:
-
-👉 **Itch.io:** [https://devlukedevlog.itch.io]
-
-Most of my repositories focus on:
-- Learning projects
-- Game prototypes
-
----
-
 ## 📬 Get in Touch
 
 If you’d like to collaborate, ask a question, or just connect:
