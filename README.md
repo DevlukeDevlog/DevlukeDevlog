@@ -13,7 +13,7 @@ If you’d like to collaborate, ask a question, or just connect:
 
 - 📧 **Email:** simplepixelated@gmail.com
 - 💼 **GitHub:** You’re already here  
-- 🎮 **Itch.io:** [https://devlukedevlog.itch.io]
+- 🎮 **Itch.io:** https://devlukedevlog.itch.io
 
 ---
 
